@@ -8,7 +8,7 @@
 
 const repl = require('repl');
 
-const { Client, LocalAuth } = require('./index');
+const { Client, LocalAuth } = require('94742121040');
 
 const client = new Client({
     puppeteer: { headless: false }, 
